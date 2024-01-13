@@ -1,2 +1,2 @@
 # kate-blundell
-A wikipedia page for Katherine Blundell
+A wikipedia page for Katherine Blundell.
